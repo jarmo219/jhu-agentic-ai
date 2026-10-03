@@ -1,0 +1,12 @@
+﻿.venv/
+venv/
+.env
+*.key
+course-materials/
+*.pdf
+assessments-wip/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
